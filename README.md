@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisazhong13
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning cs and ds in uoft
+- 🌱 I’m currently learning data science and actuarial science at UofT
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me instagram@lisazhong0113
 
