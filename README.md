@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisazhong13
 - 🌱 I’m currently an undergrad studying data science and actuarial science at UofT
-- ✨ I've done projects in many languages: Python, C, Java, SQL, R...
+- ✨ I've done projects in several languages: Python, C, Java, SQL, R...
 - 🌏 And various fields: ocean chemistry, medical imaging, patents, market price, AI assistants, satellite images, and catastrophe prediction!
 
 <!---
